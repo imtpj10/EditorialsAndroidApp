@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393547749220",
+    "firebase_url": "https://editorials-bf562.firebaseio.com",
+    "project_id": "editorials-bf562",
+    "storage_bucket": "editorials-bf562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393547749220:android:cf634c7c4a75ffab3a0c71",
+        "android_client_info": {
+          "package_name": "com.example.editorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393547749220-9b3in5b2cgr6o6q3u80ispv4vktmlequ.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.editorials",
+            "certificate_hash": "84cf55d4af4cbecbcf5e5116dc984e0d340eaf61"
+          }
+        },
+        {
+          "client_id": "393547749220-v39apqsm0jd0rdpbv4quocik3phpd9sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqWtLBCk0SWFcjp354eCm86VHOg39KnsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393547749220-v39apqsm0jd0rdpbv4quocik3phpd9sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
